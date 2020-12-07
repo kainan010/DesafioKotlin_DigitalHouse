@@ -2,22 +2,22 @@
 
 ![alt text](https://www.digitalhouse.com/logo-DH.png)
 
-# DesafioKotlin
-> Kotlin is an object oriented programming language just like Java. Object oriented programming (OOP) allows us to solve the complex problem by using objects. In this Sample, we will learn what is a class, what is an object and several other features of Object Oriented Programming (OOP).
+# Projeto em Kotlin 
+> Kotlin é uma linguagem de programação orientada a objetos, assim como Java. A programação orientada a objetos (OOP) nos permite resolver o problema complexo usando objetos. Neste desafio , aprenderemos o que é uma classe, o que é um objeto e vários outros recursos da Programação Orientada a Objetos (OOP)
 
 
-7 OOP Concepts in kotlin with examples 2020
+7 conceitos OOP em kotlin
 
-1. Abstraction
-2. Encapsulation
-3. Inheritance
-4. Polymorphism
-5. Association
-6. Aggregation
-7. Composition
+1. Abstração
+2. Encapsulamento
+3. Herança
+4. Polimorfismo
+5. Associação
+6. Agregação
+7. Composição
 
 ![alt text](https://www.sngular.com/wp-content/uploads/2019/11/Kotlin-Blog.png)
 
-## Usage example
+## Exemplo de uso
 
-A few motivating and useful examples of how you can be used. Spice this up with code blocks and potentially more knowledge you'll have it .
+Alguns exemplos úteis e motivadores de como você pode ser usado. Incremente isso com blocos de código e potencialmente mais conhecimento você terá.
