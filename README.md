@@ -16,8 +16,6 @@
 6. Aggregation
 7. Composition
 
-
-![alt text](https://miro.medium.com/max/1200/1*8YPjY2xhNwQylBBs8dYB0g.png)
 ![alt text](https://www.sngular.com/wp-content/uploads/2019/11/Kotlin-Blog.png)
 
 ## Usage example
