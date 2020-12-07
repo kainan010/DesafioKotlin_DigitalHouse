@@ -14,7 +14,6 @@
 6. Aggregation
 7. Composition
 
-![](curso1.png)
 ![](curso2.jpg)
 
 
