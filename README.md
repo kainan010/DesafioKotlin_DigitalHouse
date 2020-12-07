@@ -18,6 +18,7 @@
 
 
 ![](curso2.jpg)
+![alt text](https://bugfender.com/wp-content/uploads/2017/06/kotlin-featured.png)
 
 ## Usage example
 
