@@ -15,6 +15,7 @@
 7. Composition
 
 ![](curso1.png)
+![](curso2.jpg)
 
 
 ## Usage example
