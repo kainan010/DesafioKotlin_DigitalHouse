@@ -1,6 +1,6 @@
 # Desafio Kotlin - DigitalHouse
 
-
+![alt text](https://www.digitalhouse.com/logo-DH.png)
 
 # DesafioKotlin
 > Kotlin is an object oriented programming language just like Java. Object oriented programming (OOP) allows us to solve the complex problem by using objects. In this Sample, we will learn what is a class, what is an object and several other features of Object Oriented Programming (OOP).
@@ -17,8 +17,8 @@
 7. Composition
 
 
-![](curso2.jpg)
-![alt text](https://bugfender.com/wp-content/uploads/2017/06/kotlin-featured.png)
+![alt text](https://miro.medium.com/max/1200/1*8YPjY2xhNwQylBBs8dYB0g.png)
+![alt text](https://www.sngular.com/wp-content/uploads/2019/11/Kotlin-Blog.png)
 
 ## Usage example
 
