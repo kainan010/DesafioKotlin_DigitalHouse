@@ -14,7 +14,7 @@
 6. Aggregation
 7. Composition
 
-![](img.curso1.png)
+![](curso1.png)
 
 
 ## Usage example
