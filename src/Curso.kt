@@ -1,7 +1,7 @@
 data class Curso(
-    var nome: String,
-    var cursoCod: Int,
-    var qtdMaximaAlunos : Int
+    val nome: String,
+    val cursoCod: Int,
+    val qtdMaximaAlunos : Int
 
 ) {
     val professorTitular: ProfessorTitular? = null
