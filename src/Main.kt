@@ -1,7 +1,9 @@
 fun main(){
-    println("DESAFIO KOTLIN _ DIGITAL HOUSE")
+    println()
 
-   // val teste = Matricula("18/09/2020")
+    println("------DESAFIO KOTLIN _ DIGITAL HOUSE -------")
+
+    println()
 
     // objetos Professores Titulares
 //    val professorTitular1 = ProfessorTitular(
@@ -31,17 +33,17 @@ fun main(){
 
     val manager = DigitalHouseManager()
 
-    manager.matricularAluno("William", "Lucas", 1)
-    manager.matricularAluno("Marcelo", "Leandro", 2)
-    manager.matricularAluno("Elias", "Maluco", 3)
-    manager.matricularAluno("Andre", "do Rap", 4)
-    manager.matricularAluno("Jorge", "Aragao", 5)
+    manager.matricularAluno("Vitor", " oliveira", 1)
+    manager.matricularAluno("Caio", "Crevelaro", 2)
+    manager.matricularAluno("Kainan", "Andrade", 3)
+    manager.matricularAluno("Celia", "Celly", 4)
+    manager.matricularAluno("Lais", "Rolim", 5)
 
-    manager.registrarProfessorTitular("Silas", "Rodrigo", 1,  "Cálculo")
-    manager.registrarProfessorTitular("José", "Fernando", 2,  "Java")
+    manager.registrarProfessorTitular("Kaio", "Andrade", 1,  "Android")
+    manager.registrarProfessorTitular("Matheus", "Henrique", 2,  "Flutter")
 
-    manager.registrarProfessorAdjunto("Jorge", "Marcelo", 3, 12)
-    manager.registrarProfessorAdjunto("Juliano", "Rafael", 4, 11)
+    manager.registrarProfessorAdjunto("Joao", "Matheus", 3, 12)
+    manager.registrarProfessorAdjunto("Jose", "marcos", 4, 11)
 
     manager.registrarCurso("Full stack", 20001, 3)
     manager.registrarCurso("Android", 20002, 2)

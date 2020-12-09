@@ -1,17 +1,9 @@
-open class Professor(
+abstract class Professor(
    val nome: String,
    val sobrenome: String,
    val tempoDeCasa: Int,
    val professorCod: Int
 ) {
-
-
-
-
-
-
-
-
 
 
     override fun equals(other: Any?): Boolean {

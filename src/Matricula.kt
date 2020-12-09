@@ -1,7 +1,7 @@
 import java.text.SimpleDateFormat
 import java.util.*
 
-class Matricula(
+data class Matricula(
     val aluno: Aluno,
     val curso: Curso
 
