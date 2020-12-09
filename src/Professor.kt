@@ -1,8 +1,8 @@
-class Professor(
-    val nome: String,
-    val sobrenome: String,
-    val tempoDeCasa: Int,
-    val professorCod: Int
+open class Professor(
+   val nome: String,
+   val sobrenome: String,
+   val tempoDeCasa: Int,
+   val professorCod: Int
 ) {
 
 
@@ -25,5 +25,8 @@ class Professor(
         return true
     }
 
+    override fun toString(): String {
+        return "Professor(nome='$nome', sobrenome='$sobrenome', professorCod=$professorCod) "
+    }
 
 }
